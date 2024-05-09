@@ -2,7 +2,7 @@ import csv
 
 from PyQt6.QtGui import QFont
 
-from gui import *
+from VotingProject.gui import *
 from PyQt6.QtWidgets import *
 
 CANDIDATE_ONE = "Jane"
